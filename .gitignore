@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+myenv/
+venv/
+
+# Build files
+build/
+*.so
+*.o
+
+# OS
+.DS_Store
