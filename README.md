@@ -64,13 +64,13 @@ FP32 → INT8 → Ternary → Memory Optimization → Loop Unrolling → SIMD
 - Vectorized computation using 256-bit registers processes 8 floating-point values per instruction.
 
 
-
-
-
 # Benchmark Results
-FP32     : 0.0396 sec
-Unrolled : 0.0388 sec
-AVX      : 0.0328 sec
+
+| Method   | Time (sec)|
+|----------|-----------|
+| FP32     | 0.0396    |
+| Unrolled | 0.0388    |
+| AVX      | 0.0328    |
 
 
 
