@@ -16,7 +16,7 @@ The study demonstrates that reducing arithmetic complexity alone does not guaran
 
 FP32 → INT8 → Ternary → Memory Optimization → Loop Unrolling → SIMD
 
-
+```
             Input Vector (x)
                     │
                     ▼
@@ -36,7 +36,7 @@ FP32 → INT8 → Ternary → Memory Optimization → Loop Unrolling → SIMD
                     │
                     ▼
                Output Vector
-
+```
 
 # Implementation Details
 1. FP32 Baseline
