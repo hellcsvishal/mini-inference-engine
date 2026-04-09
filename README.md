@@ -38,7 +38,6 @@ FP32 → INT8 → Ternary → Memory Optimization → Loop Unrolling → SIMD
                Output Vector
 
 
-
 # Implementation Details
 1. FP32 Baseline
 
